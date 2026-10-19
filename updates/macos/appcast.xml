@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Loupe macOS 稳定版更新</title>
+    <link>https://github.com/kyrariiovo/loupe-releases/releases</link>
+    <item>
+      <title>Loupe 1.0.3</title>
+      <pubDate>Mon, 19 Oct 2026 09:17:55 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;接入稳定版更新通道。启动后及每 12 小时自动检查；新版本先提示，确认后下载和安装。文件操作期间延后检查与重启。&lt;/p&gt;</description>
+      <enclosure url="https://github.com/kyrariiovo/loupe-releases/releases/download/release-2026-10-19/Loupe-macOS-1.0.3-arm64.zip" length="12315802" type="application/octet-stream" sparkle:version="27" sparkle:shortVersionString="1.0.3" sparkle:edSignature="nVyQ8dyQRLHublhIO/Ka/Ksbj7qEpYIYmPsu5XLWy7u1Yp0ePCupIB6G5ubbTh1HlUHbvMtjyrsmGp9pmnUNBw==" />
+    </item>
+  </channel>
+</rss>
