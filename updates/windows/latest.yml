@@ -1,13 +1,15 @@
 {
-  "version": "0.4.4",
+  "version": "0.4.5",
   "files": [
     {
-      "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/release-2026-10-19/Loupe-Setup-0.4.4.exe",
-      "sha512": "QEvY2QxWpOUOB9aqxUMpXGBSyJpiI0F5UmaTW+QcOKuKx25vT+5Ub5p3K5yubZjrGVF9kDegmD0EOvQzGq/Pww==",
-      "size": 151365139
+      "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.5/Loupe-Setup-0.4.5.exe",
+      "sha512": "0Kfog/PBts9Jz7AKigm85toJu8Ux5caHmCDg/jD73VTOxT1sqG2hFjF5ehbBEH5tDfQ+qhI8wzJ+tYr/k2NKzg==",
+      "size": 152583014
     }
   ],
-  "path": "https://github.com/kyrariiovo/loupe-releases/releases/download/release-2026-10-19/Loupe-Setup-0.4.4.exe",
-  "sha512": "QEvY2QxWpOUOB9aqxUMpXGBSyJpiI0F5UmaTW+QcOKuKx25vT+5Ub5p3K5yubZjrGVF9kDegmD0EOvQzGq/Pww==",
-  "releaseDate": "2026-10-19T09:11:43.568Z"
+  "path": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.5/Loupe-Setup-0.4.5.exe",
+  "sha512": "0Kfog/PBts9Jz7AKigm85toJu8Ux5caHmCDg/jD73VTOxT1sqG2hFjF5ehbBEH5tDfQ+qhI8wzJ+tYr/k2NKzg==",
+  "releaseDate": "2026-10-21T16:12:30.076Z",
+  "releaseName": "Loupe Windows 0.4.5 · 错误日志与报告",
+  "releaseNotes": "新增本地错误日志与脱敏自动报告，帮助排查手机读取无反应和闪退。首次提示默认勾选，可取消并在设置中关闭；不会上传照片、视频、文件路径或设备标识。保留原有用户数据与默认应用。本版尚未确认修复手机兼容问题。"
 }
