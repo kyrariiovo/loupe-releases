@@ -1,15 +1,15 @@
 {
-  "version": "0.4.5",
+  "version": "0.4.6",
   "files": [
     {
-      "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.5/Loupe-Setup-0.4.5.exe",
-      "sha512": "0Kfog/PBts9Jz7AKigm85toJu8Ux5caHmCDg/jD73VTOxT1sqG2hFjF5ehbBEH5tDfQ+qhI8wzJ+tYr/k2NKzg==",
-      "size": 152583014
+      "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.6/Loupe-Setup-0.4.6.exe",
+      "sha512": "Z17m/p0h86/hHAXpBhVFCP/qKuqjhQUrEahTWWSf42J0YVDIf0M3LclUVF5au2dt8R1r7MnT2ThuiM5+1alCKA==",
+      "size": 152583650
     }
   ],
-  "path": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.5/Loupe-Setup-0.4.5.exe",
-  "sha512": "0Kfog/PBts9Jz7AKigm85toJu8Ux5caHmCDg/jD73VTOxT1sqG2hFjF5ehbBEH5tDfQ+qhI8wzJ+tYr/k2NKzg==",
-  "releaseDate": "2026-10-21T16:12:30.076Z",
-  "releaseName": "Loupe Windows 0.4.5 · 错误日志与报告",
-  "releaseNotes": "新增本地错误日志与脱敏自动报告，帮助排查手机读取无反应和闪退。首次提示默认勾选，可取消并在设置中关闭；不会上传照片、视频、文件路径或设备标识。保留原有用户数据与默认应用。本版尚未确认修复手机兼容问题。"
+  "path": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.6/Loupe-Setup-0.4.6.exe",
+  "sha512": "Z17m/p0h86/hHAXpBhVFCP/qKuqjhQUrEahTWWSf42J0YVDIf0M3LclUVF5au2dt8R1r7MnT2ThuiM5+1alCKA==",
+  "releaseDate": "2026-10-22T13:48:49.099Z",
+  "releaseName": "Loupe Windows 0.4.6 · 手机照片读取修复",
+  "releaseNotes": "修复资源管理器能看到手机照片、Loupe 却显示为空或无法预览的问题：正确识别隐藏扩展名，修复多层设备路径及原图取回。已用一加 15 验证 924 个媒体文件、缩略图和大图预览。保留收藏、设置及默认打开方式。"
 }

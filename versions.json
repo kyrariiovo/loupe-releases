@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "product": "Loupe",
   "channel": "stable",
-  "releaseTag": "macos-v1.0.4",
-  "publishedAt": "2026-10-22T11:58:13.324273+00:00",
-  "releaseNotesURL": "https://github.com/kyrariiovo/loupe-releases/releases/tag/macos-v1.0.4",
+  "releaseTag": "windows-v0.4.6",
+  "publishedAt": "2026-10-23T03:05:36.062183+00:00",
+  "releaseNotesURL": "https://github.com/kyrariiovo/loupe-releases/releases/tag/windows-v0.4.6",
   "automaticChecks": {
     "startupDelaySeconds": 30,
     "intervalHours": 12,
@@ -31,15 +31,15 @@
       }
     },
     "windows": {
-      "version": "0.4.5",
+      "version": "0.4.6",
       "architecture": "x64",
       "minimumOS": "Windows 10",
       "feedURL": "https://raw.githubusercontent.com/kyrariiovo/loupe-releases/main/updates/windows/latest.yml",
       "downloads": {
         "installer": {
-          "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.5/Loupe-Setup-0.4.5.exe",
-          "bytes": 152583014,
-          "sha256": "91f0d80e251d374febf7ad798a7af605d988b19a9fa8d401dff73e7ed901b09a"
+          "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.6/Loupe-Setup-0.4.6.exe",
+          "bytes": 152583650,
+          "sha256": "d8c8b598922bd4f06659d52d00af72bb0cc9603b9d3d15f883ce0e317e1d81d9"
         }
       }
     }
