@@ -1,15 +1,15 @@
 {
-  "version": "0.4.6",
+  "version": "0.4.7",
   "files": [
     {
-      "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.6/Loupe-Setup-0.4.6.exe",
-      "sha512": "Z17m/p0h86/hHAXpBhVFCP/qKuqjhQUrEahTWWSf42J0YVDIf0M3LclUVF5au2dt8R1r7MnT2ThuiM5+1alCKA==",
-      "size": 152583650
+      "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.7/Loupe-Setup-0.4.7.exe",
+      "sha512": "MvpP9PHoSaTJ6x3niBErkfJnlllKBwMqQMXVNHtbPFC5eFVjDG6OglVKCp6OCrg3Gaf/KjPPaR07t560egf0lw==",
+      "size": 152585261
     }
   ],
-  "path": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.6/Loupe-Setup-0.4.6.exe",
-  "sha512": "Z17m/p0h86/hHAXpBhVFCP/qKuqjhQUrEahTWWSf42J0YVDIf0M3LclUVF5au2dt8R1r7MnT2ThuiM5+1alCKA==",
-  "releaseDate": "2026-10-22T13:48:49.099Z",
-  "releaseName": "Loupe Windows 0.4.6 · 手机照片读取修复",
-  "releaseNotes": "修复资源管理器能看到手机照片、Loupe 却显示为空或无法预览的问题：正确识别隐藏扩展名，修复多层设备路径及原图取回。已用一加 15 验证 924 个媒体文件、缩略图和大图预览。保留收藏、设置及默认打开方式。"
+  "path": "https://github.com/kyrariiovo/loupe-releases/releases/download/windows-v0.4.7/Loupe-Setup-0.4.7.exe",
+  "sha512": "MvpP9PHoSaTJ6x3niBErkfJnlllKBwMqQMXVNHtbPFC5eFVjDG6OglVKCp6OCrg3Gaf/KjPPaR07t560egf0lw==",
+  "releaseDate": "2026-10-24T05:40:36.801Z",
+  "releaseName": "Loupe Windows 0.4.7 · 手机读取进度与稳定性",
+  "releaseNotes": "手机读取持续显示已发现文件数，减少逐文件 MTP 查询；30 秒没有进展才记录慢读取。设备断开后刷新列表并提示重新连接，避免重复控制台报错。处理 Windows 正常注销和关机的会话标记。已验证一加 15 的 926 个媒体文件、缩略图与大图预览，保留原有用户数据和原生拖出操作。"
 }
