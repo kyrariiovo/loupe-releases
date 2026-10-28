@@ -4,11 +4,11 @@
     <title>Loupe macOS 稳定版更新</title>
     <link>https://github.com/kyrariiovo/loupe-releases/releases</link>
     <item>
-      <title>Loupe 1.0.4</title>
-      <pubDate>Thu, 22 Oct 2026 11:58:13 +0000</pubDate>
+      <title>Loupe 1.0.5</title>
+      <pubDate>Wed, 28 Oct 2026 13:36:06 +0000</pubDate>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description>&lt;p&gt;新增本地错误日志与经同意的脱敏自动上报；修复手机目录重复 ID 闪退，增强设备重新检测、解锁恢复和连接超时反馈。保留默认关联、喜欢、最近删除和现有设置。&lt;/p&gt;</description>
-      <enclosure url="https://github.com/kyrariiovo/loupe-releases/releases/download/macos-v1.0.4/Loupe-macOS-1.0.4-arm64.zip" length="12490592" type="application/octet-stream" sparkle:version="29" sparkle:shortVersionString="1.0.4" sparkle:edSignature="AdMENo5NNa2wggiCEguo4H/WyhFJDYT3xufrtPOPWnTW5VgY0a8y0SYi+PJ4+LIBvRzqJ7XZzxdcuIwZWTsTBQ==" />
+      <description>&lt;p&gt;限制主界面缩略图常驻内存，浏览大文件夹时占用不再持续增长。&lt;/p&gt;</description>
+      <enclosure url="https://github.com/kyrariiovo/loupe-releases/releases/download/macos-v1.0.5/Loupe-macOS-1.0.5-arm64.zip" length="12497760" type="application/octet-stream" sparkle:version="31" sparkle:shortVersionString="1.0.5" sparkle:edSignature="hIt6iWxfN0gtPEGrzULbIR3MCl7J0V+jbAAqMloIwZJYa8d+Zp2l7L+GNqlGPEahOByTqISQCozl7nQ6fgjqBw==" />
     </item>
   </channel>
 </rss>

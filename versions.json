@@ -2,9 +2,9 @@
   "schemaVersion": 1,
   "product": "Loupe",
   "channel": "stable",
-  "releaseTag": "windows-v0.4.7",
-  "publishedAt": "2026-10-24T05:45:52.367901+00:00",
-  "releaseNotesURL": "https://github.com/kyrariiovo/loupe-releases/releases/tag/windows-v0.4.7",
+  "releaseTag": "macos-v1.0.5",
+  "publishedAt": "2026-10-28T13:36:06.761052+00:00",
+  "releaseNotesURL": "https://github.com/kyrariiovo/loupe-releases/releases/tag/macos-v1.0.5",
   "automaticChecks": {
     "startupDelaySeconds": 30,
     "intervalHours": 12,
@@ -12,21 +12,21 @@
   },
   "platforms": {
     "macos": {
-      "version": "1.0.4",
-      "build": 29,
+      "version": "1.0.5",
+      "build": 31,
       "architecture": "arm64",
       "minimumOS": "14.0",
       "feedURL": "https://raw.githubusercontent.com/kyrariiovo/loupe-releases/main/updates/macos/appcast.xml",
       "downloads": {
         "zip": {
-          "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/macos-v1.0.4/Loupe-macOS-1.0.4-arm64.zip",
-          "bytes": 12490592,
-          "sha256": "151dbe4211d621baf07e5de1f79ad5d5caf7ff5fc1973bc8dfe0eeb6607b57ff"
+          "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/macos-v1.0.5/Loupe-macOS-1.0.5-arm64.zip",
+          "bytes": 12497760,
+          "sha256": "0dc0156edc7f8974983c80a7be7d99d164b02438b31db34fb798d08753d20cf8"
         },
         "pkg": {
-          "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/macos-v1.0.4/Loupe-macOS-1.0.4-arm64.pkg",
-          "bytes": 12010004,
-          "sha256": "9db55b1dd2ef802babe713e84186166f9a41bb5c3f6b2901f50a015a2747d57a"
+          "url": "https://github.com/kyrariiovo/loupe-releases/releases/download/macos-v1.0.5/Loupe-macOS-1.0.5-arm64.pkg",
+          "bytes": 12016143,
+          "sha256": "643afc769d2ae264481aaf1e46a798fb1415724a2287041ebdf04c916908c443"
         }
       }
     },
